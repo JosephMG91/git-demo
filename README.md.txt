@@ -3,14 +3,7 @@
 This is the first file in theis repo
 
 
-##IPSUM BELOW
+##Wesite
 
-
-testing the status update file
-
-
-##IPSUM BELOW
-
-
-testing the status update file
+1.index.html
 
